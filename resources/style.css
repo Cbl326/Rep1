@@ -1,7 +1,9 @@
 h1 {
-  background-color: red;
+  background-color: #c90d0d;
   text-align: center;
   font-family: 'Creepster', cursive;
+  font-size: 80px;
+  letter-spacing: 10px;
 }
 
 p {
