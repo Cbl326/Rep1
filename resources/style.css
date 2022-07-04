@@ -15,4 +15,8 @@ p {
   text-align: center;
 }
 
-
+.morningstar {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
